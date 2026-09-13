@@ -1,0 +1,23 @@
+{
+  "name": "Asko",
+  "block": "Deori",
+  "district": "Giridih",
+  "state": "Jharkhand",
+  "pin": "815314",
+  "languages": ["Hindi", "Santali"],
+  "population2011": 2402,
+  "houses2011": 363,
+  "femalePopulation2011": "48.9% (1,175)",
+  "literacy2011": "55.5% (1,333)",
+  "femaleLiteracy2011": "19.6% (470)",
+  "stPopulation2011": "3.5% (85)",
+  "scPopulation2011": "28.0% (673)",
+  "workingPopulation2011": "40.4%",
+  "children0to6_2011": 439,
+  "pradhan": "Nakul Matha",
+  "mla": "Kedar Hazra",
+  "mp": "Annapurna Devi",
+  "assemblyConstituency": "Jamua",
+  "lokSabhaConstituency": "Koderma",
+  "rivers": ["Sakri", "Puthro"]
+}
