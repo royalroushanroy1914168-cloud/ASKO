@@ -1,11 +1,8 @@
-// Replace these placeholder values with your Firebase Web App configuration.
-// Firebase Console -> Project settings -> Your apps -> Web app.
-// Do not put any server secret/API private key here.
 export const firebaseConfig = {
-  apiKey: "YOUR_FIREBASE_WEB_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.firebasestorage.app",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  authDomain: "asko-884e7.firebaseapp.com",
+  projectId: "asko-884e7",
+  storageBucket: "asko-884e7.firebasestorage.app",
+  messagingSenderId: "429787629679",
   appId: "YOUR_FIREBASE_APP_ID"
 };
